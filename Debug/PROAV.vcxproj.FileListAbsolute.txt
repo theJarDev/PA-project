@@ -1,0 +1,6 @@
+C:\Users\chigu\Desktop\PROAV\Debug\PROAV.exe
+C:\Users\chigu\Desktop\PROAV\Debug\PROAV.pdb
+C:\Users\melis\Documents\COVID-Clases\Programación Avanzada\ProyectoFinal\Debug\ProyectoFinal.exe
+C:\Users\melis\Documents\COVID-Clases\Programación Avanzada\ProyectoFinal\Debug\ProyectoFinal.pdb
+C:\Users\usuario\Desktop\ProyectoFinal\Debug\ProyectoFinal.exe
+C:\Users\usuario\Desktop\ProyectoFinal\Debug\ProyectoFinal.pdb
